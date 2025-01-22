@@ -1,6 +1,7 @@
 # CAIS++ Fall 2024 Winter Curriculum Project
 
 Leyaa George | leyaageo@usc.edu
+*NOTE: If you are attempting to see the code, click the file that says "CLICKONME" at the end. 
 
 ## Project Description
 This is a classifier model, built on BERT, that uses natural language processing to detect whether an article is sarcastic or not based on its headline.
