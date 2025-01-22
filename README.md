@@ -1,6 +1,7 @@
 # CAIS++ Fall 2024 Winter Curriculum Project
 
 Leyaa George | leyaageo@usc.edu
+
 *NOTE: If you are attempting to see the code, click the file that says "CLICKTHISONE" at the end. 
 
 ## Project Description
